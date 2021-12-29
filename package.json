@@ -1,0 +1,26 @@
+{
+  "name": "terrible-game-terrible-friends",
+  "version": "1.0.0",
+  "description": "Terrible Game, Terrible friends is an open source browser based game based on Pico Park",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vince-Rdv/Terrible-Game-Terrible-Friends.git"
+  },
+  "author": "Vince-Rdv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vince-Rdv/Terrible-Game-Terrible-Friends/issues"
+  },
+  "homepage": "https://github.com/Vince-Rdv/Terrible-Game-Terrible-Friends#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.0"
+  }
+}
